@@ -1,6 +1,6 @@
 # Satoriya Kobayashi
 
-I'm Sato, a UI/UX Designer & Front-End Developer.
+I'm [Sato](https://www.linkedin.com/in/satoriya-kobayashi-81b084286/), a UI/UX Designer & Front-End Developer.
 
 I design and build whatever comes to mind.
 
