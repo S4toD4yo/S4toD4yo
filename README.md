@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there! I'm Sato!
 
-<!--
-**S4toD4yo/S4toD4yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UI/UX Designer and Front-End Developer with an interest in creating interfaces that are not only visually appealing, but also intuitive and enjoyable to use.
 
-Here are some ideas to get you started:
+I enjoy working across both **design and development**, allowing me to understand a product from the user's perspective while also being able to bring designs into working interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I enjoy anime, game development, rhythm games, and experimenting with new creative ideas.
+
+## What Are You Currently Working On?
+
+- Designing and developing **UI/UX projects**
+- Building **front-end interfaces and interactive experiences**
+- Developing games and systems in **Roblox Studio using Lua**
+- Exploring **VTuber and AI companion technology**
+- Improving my skills in **UI design, front-end development, and game development**
+
+## Tools that i use:
+
+**Design**
+- Figma
+- Adobe Photoshop
+
+**Development**
+- HTML            - Lua
+- CSS             - Roblox Studio
+- JavaScript      - Python
+
+**Tools & Workflow**
+- Git
+- GitHub
+- VS Code
+
+I'm always experimenting with new tools and technologies whenever they can help me build better experiences.
+
+## How to Reach You?
+
+If you'd like to collaborate, discuss a project, or simply say hi, feel free to reach out!
+
+- **GitHub:** [Your GitHub Profile]
+- **Email:** [Your Email]
+- **Portfolio:** [Your Portfolio]
+
+I'm always open to interesting projects, creative collaborations, and opportunities to learn something new. 0w0
