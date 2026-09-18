@@ -9,3 +9,6 @@ My main tools are Figma, Photoshop, VSCode, GitHub, and Roblox Studio.
 I enjoy anime, rhythm games, cooking, and making random things.
 
 If an idea pops into my head, chances are I'll build it.
+
+### Current Project
+Sato's Personal AI ー Hiyori Li
